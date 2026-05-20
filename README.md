@@ -1,6 +1,6 @@
 # Agent Platform Accelerator
 
-An AI-powered platform accelerator that helps enterprise customers quickly deploy Azure infrastructure for AI agent solutions using natural language.
+An AI-powered platform accelerator that helps enterprise customers quickly deploy Azure infrastructure for AI agent solutions using natural language with reusable patterns.
 
 ## Overview
 
